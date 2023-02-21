@@ -1,2 +1,2 @@
 # python_scripts
-Small and usefull penetst tools written in python 
+Small and usefull pentest tools written in python :)
